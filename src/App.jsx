@@ -26,6 +26,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Can we deploy this change automatically? YES WE CAN - Obama 2023.
+        It is fun to automate things! And to drink coffee!
       </p>
     </div>
   )
